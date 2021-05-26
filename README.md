@@ -9,4 +9,6 @@ git clone https://github.com/Hakiki-XC/endec
 
 cd endec
 
+git pull
+
 python3 encdec.py
